@@ -1,0 +1,2397 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\store.bundle.scp.css",
+      "PackagePath": "staticwebassets\\store.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\css\\css\\animate.css",
+      "PackagePath": "staticwebassets\\css\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\css\\css\\calendar.css",
+      "PackagePath": "staticwebassets\\css\\css\\calendar.css"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\css\\css\\components\\bs-datatable.css",
+      "PackagePath": "staticwebassets\\css\\css\\components\\bs-datatable.css"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\css\\css\\components\\bs-filestyle.css",
+      "PackagePath": "staticwebassets\\css\\css\\components\\bs-filestyle.css"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\css\\css\\components\\bs-rating.css",
+      "PackagePath": "staticwebassets\\css\\css\\components\\bs-rating.css"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\css\\css\\components\\bs-select.css",
+      "PackagePath": "staticwebassets\\css\\css\\components\\bs-select.css"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\css\\css\\components\\bs-switches-vars.css",
+      "PackagePath": "staticwebassets\\css\\css\\components\\bs-switches-vars.css"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\css\\css\\components\\bs-switches.css",
+      "PackagePath": "staticwebassets\\css\\css\\components\\bs-switches.css"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\css\\css\\components\\dark-components.css",
+      "PackagePath": "staticwebassets\\css\\css\\components\\dark-components.css"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\css\\css\\components\\datepicker.css",
+      "PackagePath": "staticwebassets\\css\\css\\components\\datepicker.css"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\css\\css\\components\\daterangepicker.css",
+      "PackagePath": "staticwebassets\\css\\css\\components\\daterangepicker.css"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\css\\css\\components\\ion.rangeslider-vars.css",
+      "PackagePath": "staticwebassets\\css\\css\\components\\ion.rangeslider-vars.css"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\css\\css\\components\\ion.rangeslider.css",
+      "PackagePath": "staticwebassets\\css\\css\\components\\ion.rangeslider.css"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\css\\css\\components\\ion.rangeslider.css.map",
+      "PackagePath": "staticwebassets\\css\\css\\components\\ion.rangeslider.css.map"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\css\\css\\components\\pricing-table.css",
+      "PackagePath": "staticwebassets\\css\\css\\components\\pricing-table.css"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\css\\css\\components\\prism.css",
+      "PackagePath": "staticwebassets\\css\\css\\components\\prism.css"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\css\\css\\components\\radio-checkbox-vars.css",
+      "PackagePath": "staticwebassets\\css\\css\\components\\radio-checkbox-vars.css"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\css\\css\\components\\radio-checkbox.css",
+      "PackagePath": "staticwebassets\\css\\css\\components\\radio-checkbox.css"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\css\\css\\components\\rangeslider\\sprite-skin-nice.png",
+      "PackagePath": "staticwebassets\\css\\css\\components\\rangeslider\\sprite-skin-nice.png"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\css\\css\\components\\select-boxes.css",
+      "PackagePath": "staticwebassets\\css\\css\\components\\select-boxes.css"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\css\\css\\components\\timepicker.css",
+      "PackagePath": "staticwebassets\\css\\css\\components\\timepicker.css"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\css\\css\\custom.css",
+      "PackagePath": "staticwebassets\\css\\css\\custom.css"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\css\\css\\font-icons.css",
+      "PackagePath": "staticwebassets\\css\\css\\font-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\css\\css\\icons\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\css\\css\\icons\\bootstrap-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\css\\css\\icons\\bootstrap-icons\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\css\\css\\icons\\bootstrap-icons\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\css\\css\\icons\\bootstrap-icons\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\css\\css\\icons\\bootstrap-icons\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\css\\css\\icons\\font-awesome.css",
+      "PackagePath": "staticwebassets\\css\\css\\icons\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\css\\css\\icons\\font-awesome\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\css\\css\\icons\\font-awesome\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\css\\css\\icons\\font-awesome\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\css\\css\\icons\\font-awesome\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\css\\css\\icons\\font-awesome\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\css\\css\\icons\\font-awesome\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\css\\css\\icons\\font-awesome\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\css\\css\\icons\\font-awesome\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\css\\css\\icons\\font-awesome\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\css\\css\\icons\\font-awesome\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\css\\css\\icons\\font-awesome\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\css\\css\\icons\\font-awesome\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\css\\css\\icons\\font-awesome\\fa-v4compatibility.ttf",
+      "PackagePath": "staticwebassets\\css\\css\\icons\\font-awesome\\fa-v4compatibility.ttf"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\css\\css\\icons\\font-awesome\\fa-v4compatibility.woff2",
+      "PackagePath": "staticwebassets\\css\\css\\icons\\font-awesome\\fa-v4compatibility.woff2"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\css\\css\\icons\\unicons.css",
+      "PackagePath": "staticwebassets\\css\\css\\icons\\unicons.css"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\css\\css\\icons\\unicons\\unicons-0.woff",
+      "PackagePath": "staticwebassets\\css\\css\\icons\\unicons\\unicons-0.woff"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\css\\css\\icons\\unicons\\unicons-0.woff2",
+      "PackagePath": "staticwebassets\\css\\css\\icons\\unicons\\unicons-0.woff2"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\css\\css\\icons\\unicons\\unicons-1.woff",
+      "PackagePath": "staticwebassets\\css\\css\\icons\\unicons\\unicons-1.woff"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\css\\css\\icons\\unicons\\unicons-1.woff2",
+      "PackagePath": "staticwebassets\\css\\css\\icons\\unicons\\unicons-1.woff2"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\css\\css\\icons\\unicons\\unicons-10.woff",
+      "PackagePath": "staticwebassets\\css\\css\\icons\\unicons\\unicons-10.woff"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\css\\css\\icons\\unicons\\unicons-10.woff2",
+      "PackagePath": "staticwebassets\\css\\css\\icons\\unicons\\unicons-10.woff2"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\css\\css\\icons\\unicons\\unicons-11.woff",
+      "PackagePath": "staticwebassets\\css\\css\\icons\\unicons\\unicons-11.woff"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\css\\css\\icons\\unicons\\unicons-11.woff2",
+      "PackagePath": "staticwebassets\\css\\css\\icons\\unicons\\unicons-11.woff2"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\css\\css\\icons\\unicons\\unicons-12.woff",
+      "PackagePath": "staticwebassets\\css\\css\\icons\\unicons\\unicons-12.woff"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\css\\css\\icons\\unicons\\unicons-12.woff2",
+      "PackagePath": "staticwebassets\\css\\css\\icons\\unicons\\unicons-12.woff2"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\css\\css\\icons\\unicons\\unicons-13.woff",
+      "PackagePath": "staticwebassets\\css\\css\\icons\\unicons\\unicons-13.woff"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\css\\css\\icons\\unicons\\unicons-13.woff2",
+      "PackagePath": "staticwebassets\\css\\css\\icons\\unicons\\unicons-13.woff2"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\css\\css\\icons\\unicons\\unicons-14.woff",
+      "PackagePath": "staticwebassets\\css\\css\\icons\\unicons\\unicons-14.woff"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\css\\css\\icons\\unicons\\unicons-14.woff2",
+      "PackagePath": "staticwebassets\\css\\css\\icons\\unicons\\unicons-14.woff2"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\css\\css\\icons\\unicons\\unicons-15.woff",
+      "PackagePath": "staticwebassets\\css\\css\\icons\\unicons\\unicons-15.woff"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\css\\css\\icons\\unicons\\unicons-15.woff2",
+      "PackagePath": "staticwebassets\\css\\css\\icons\\unicons\\unicons-15.woff2"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\css\\css\\icons\\unicons\\unicons-16.woff",
+      "PackagePath": "staticwebassets\\css\\css\\icons\\unicons\\unicons-16.woff"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\css\\css\\icons\\unicons\\unicons-16.woff2",
+      "PackagePath": "staticwebassets\\css\\css\\icons\\unicons\\unicons-16.woff2"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\css\\css\\icons\\unicons\\unicons-17.woff",
+      "PackagePath": "staticwebassets\\css\\css\\icons\\unicons\\unicons-17.woff"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\css\\css\\icons\\unicons\\unicons-17.woff2",
+      "PackagePath": "staticwebassets\\css\\css\\icons\\unicons\\unicons-17.woff2"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\css\\css\\icons\\unicons\\unicons-18.woff",
+      "PackagePath": "staticwebassets\\css\\css\\icons\\unicons\\unicons-18.woff"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\css\\css\\icons\\unicons\\unicons-18.woff2",
+      "PackagePath": "staticwebassets\\css\\css\\icons\\unicons\\unicons-18.woff2"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\css\\css\\icons\\unicons\\unicons-19.woff",
+      "PackagePath": "staticwebassets\\css\\css\\icons\\unicons\\unicons-19.woff"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\css\\css\\icons\\unicons\\unicons-19.woff2",
+      "PackagePath": "staticwebassets\\css\\css\\icons\\unicons\\unicons-19.woff2"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\css\\css\\icons\\unicons\\unicons-2.woff",
+      "PackagePath": "staticwebassets\\css\\css\\icons\\unicons\\unicons-2.woff"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\css\\css\\icons\\unicons\\unicons-2.woff2",
+      "PackagePath": "staticwebassets\\css\\css\\icons\\unicons\\unicons-2.woff2"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\css\\css\\icons\\unicons\\unicons-20.woff",
+      "PackagePath": "staticwebassets\\css\\css\\icons\\unicons\\unicons-20.woff"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\css\\css\\icons\\unicons\\unicons-20.woff2",
+      "PackagePath": "staticwebassets\\css\\css\\icons\\unicons\\unicons-20.woff2"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\css\\css\\icons\\unicons\\unicons-3.woff",
+      "PackagePath": "staticwebassets\\css\\css\\icons\\unicons\\unicons-3.woff"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\css\\css\\icons\\unicons\\unicons-3.woff2",
+      "PackagePath": "staticwebassets\\css\\css\\icons\\unicons\\unicons-3.woff2"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\css\\css\\icons\\unicons\\unicons-4.woff",
+      "PackagePath": "staticwebassets\\css\\css\\icons\\unicons\\unicons-4.woff"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\css\\css\\icons\\unicons\\unicons-4.woff2",
+      "PackagePath": "staticwebassets\\css\\css\\icons\\unicons\\unicons-4.woff2"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\css\\css\\icons\\unicons\\unicons-5.woff",
+      "PackagePath": "staticwebassets\\css\\css\\icons\\unicons\\unicons-5.woff"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\css\\css\\icons\\unicons\\unicons-5.woff2",
+      "PackagePath": "staticwebassets\\css\\css\\icons\\unicons\\unicons-5.woff2"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\css\\css\\icons\\unicons\\unicons-6.woff",
+      "PackagePath": "staticwebassets\\css\\css\\icons\\unicons\\unicons-6.woff"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\css\\css\\icons\\unicons\\unicons-6.woff2",
+      "PackagePath": "staticwebassets\\css\\css\\icons\\unicons\\unicons-6.woff2"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\css\\css\\icons\\unicons\\unicons-7.woff",
+      "PackagePath": "staticwebassets\\css\\css\\icons\\unicons\\unicons-7.woff"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\css\\css\\icons\\unicons\\unicons-7.woff2",
+      "PackagePath": "staticwebassets\\css\\css\\icons\\unicons\\unicons-7.woff2"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\css\\css\\icons\\unicons\\unicons-8.woff",
+      "PackagePath": "staticwebassets\\css\\css\\icons\\unicons\\unicons-8.woff"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\css\\css\\icons\\unicons\\unicons-8.woff2",
+      "PackagePath": "staticwebassets\\css\\css\\icons\\unicons\\unicons-8.woff2"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\css\\css\\icons\\unicons\\unicons-9.woff",
+      "PackagePath": "staticwebassets\\css\\css\\icons\\unicons\\unicons-9.woff"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\css\\css\\icons\\unicons\\unicons-9.woff2",
+      "PackagePath": "staticwebassets\\css\\css\\icons\\unicons\\unicons-9.woff2"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\css\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\css\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\css\\css\\swiper.css",
+      "PackagePath": "staticwebassets\\css\\css\\swiper.css"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\css\\demos\\store\\store.css",
+      "PackagePath": "staticwebassets\\css\\demos\\store\\store.css"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\css\\demos\\xmas\\xmas.css",
+      "PackagePath": "staticwebassets\\css\\demos\\xmas\\xmas.css"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\images\\demos\\shop\\images\\items\\featured\\1-1.jpg",
+      "PackagePath": "staticwebassets\\images\\demos\\shop\\images\\items\\featured\\1-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\images\\demos\\shop\\images\\items\\featured\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\demos\\shop\\images\\items\\featured\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\images\\demos\\shop\\images\\items\\featured\\2-1.jpg",
+      "PackagePath": "staticwebassets\\images\\demos\\shop\\images\\items\\featured\\2-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\images\\demos\\shop\\images\\items\\featured\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\demos\\shop\\images\\items\\featured\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\images\\demos\\shop\\images\\items\\featured\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\demos\\shop\\images\\items\\featured\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\images\\demos\\shop\\images\\items\\featured\\4-1.jpg",
+      "PackagePath": "staticwebassets\\images\\demos\\shop\\images\\items\\featured\\4-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\images\\demos\\shop\\images\\items\\featured\\4-2.jpg",
+      "PackagePath": "staticwebassets\\images\\demos\\shop\\images\\items\\featured\\4-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\images\\demos\\shop\\images\\items\\featured\\4-3.jpg",
+      "PackagePath": "staticwebassets\\images\\demos\\shop\\images\\items\\featured\\4-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\images\\demos\\shop\\images\\items\\featured\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\demos\\shop\\images\\items\\featured\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\images\\demos\\shop\\images\\items\\featured\\5-1.jpg",
+      "PackagePath": "staticwebassets\\images\\demos\\shop\\images\\items\\featured\\5-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\images\\demos\\shop\\images\\items\\featured\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\demos\\shop\\images\\items\\featured\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\images\\demos\\store\\images\\cat\\footwear.jpg",
+      "PackagePath": "staticwebassets\\images\\demos\\store\\images\\cat\\footwear.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\images\\demos\\store\\images\\cat\\outerwear.jpg",
+      "PackagePath": "staticwebassets\\images\\demos\\store\\images\\cat\\outerwear.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\images\\demos\\store\\images\\cat\\workout.jpg",
+      "PackagePath": "staticwebassets\\images\\demos\\store\\images\\cat\\workout.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\images\\demos\\store\\images\\contact\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\demos\\store\\images\\contact\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\images\\demos\\store\\images\\contact\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\demos\\store\\images\\contact\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\images\\demos\\store\\images\\contact\\page-title.jpg",
+      "PackagePath": "staticwebassets\\images\\demos\\store\\images\\contact\\page-title.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\images\\demos\\store\\images\\logo-dark.png",
+      "PackagePath": "staticwebassets\\images\\demos\\store\\images\\logo-dark.png"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\images\\demos\\store\\images\\logo-dark@2x.png",
+      "PackagePath": "staticwebassets\\images\\demos\\store\\images\\logo-dark@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\images\\demos\\store\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\demos\\store\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\images\\demos\\store\\images\\logo@2x.png",
+      "PackagePath": "staticwebassets\\images\\demos\\store\\images\\logo@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\images\\demos\\store\\images\\men\\items\\1-1.jpg",
+      "PackagePath": "staticwebassets\\images\\demos\\store\\images\\men\\items\\1-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\images\\demos\\store\\images\\men\\items\\1-2.jpg",
+      "PackagePath": "staticwebassets\\images\\demos\\store\\images\\men\\items\\1-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\images\\demos\\store\\images\\men\\items\\1-3.jpg",
+      "PackagePath": "staticwebassets\\images\\demos\\store\\images\\men\\items\\1-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\images\\demos\\store\\images\\men\\items\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\demos\\store\\images\\men\\items\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\images\\demos\\store\\images\\men\\items\\2-1.jpg",
+      "PackagePath": "staticwebassets\\images\\demos\\store\\images\\men\\items\\2-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\images\\demos\\store\\images\\men\\items\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\demos\\store\\images\\men\\items\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\images\\demos\\store\\images\\men\\items\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\demos\\store\\images\\men\\items\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\images\\demos\\store\\images\\men\\items\\4-1.jpg",
+      "PackagePath": "staticwebassets\\images\\demos\\store\\images\\men\\items\\4-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\images\\demos\\store\\images\\men\\items\\4-2.jpg",
+      "PackagePath": "staticwebassets\\images\\demos\\store\\images\\men\\items\\4-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\images\\demos\\store\\images\\men\\items\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\demos\\store\\images\\men\\items\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\images\\demos\\store\\images\\men\\items\\5-1.jpg",
+      "PackagePath": "staticwebassets\\images\\demos\\store\\images\\men\\items\\5-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\images\\demos\\store\\images\\men\\items\\5-2.jpg",
+      "PackagePath": "staticwebassets\\images\\demos\\store\\images\\men\\items\\5-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\images\\demos\\store\\images\\men\\items\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\demos\\store\\images\\men\\items\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\images\\demos\\store\\images\\men\\items\\6-1.jpg",
+      "PackagePath": "staticwebassets\\images\\demos\\store\\images\\men\\items\\6-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\images\\demos\\store\\images\\men\\items\\6.jpg",
+      "PackagePath": "staticwebassets\\images\\demos\\store\\images\\men\\items\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\images\\demos\\store\\images\\men\\page-title.jpg",
+      "PackagePath": "staticwebassets\\images\\demos\\store\\images\\men\\page-title.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\images\\demos\\store\\images\\others\\menu.jpg",
+      "PackagePath": "staticwebassets\\images\\demos\\store\\images\\others\\menu.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\images\\demos\\store\\images\\others\\store.jpg",
+      "PackagePath": "staticwebassets\\images\\demos\\store\\images\\others\\store.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\images\\demos\\store\\images\\others\\travel.jpg",
+      "PackagePath": "staticwebassets\\images\\demos\\store\\images\\others\\travel.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\images\\demos\\store\\images\\product\\1-1.jpg",
+      "PackagePath": "staticwebassets\\images\\demos\\store\\images\\product\\1-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\images\\demos\\store\\images\\product\\1-2.jpg",
+      "PackagePath": "staticwebassets\\images\\demos\\store\\images\\product\\1-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\images\\demos\\store\\images\\product\\2-1.jpg",
+      "PackagePath": "staticwebassets\\images\\demos\\store\\images\\product\\2-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\images\\demos\\store\\images\\product\\2-2.jpg",
+      "PackagePath": "staticwebassets\\images\\demos\\store\\images\\product\\2-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\images\\demos\\store\\images\\product\\3-1.jpg",
+      "PackagePath": "staticwebassets\\images\\demos\\store\\images\\product\\3-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\images\\demos\\store\\images\\product\\3-2.jpg",
+      "PackagePath": "staticwebassets\\images\\demos\\store\\images\\product\\3-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\images\\demos\\store\\images\\product\\3-3.jpg",
+      "PackagePath": "staticwebassets\\images\\demos\\store\\images\\product\\3-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\images\\demos\\store\\images\\product\\3-4.jpg",
+      "PackagePath": "staticwebassets\\images\\demos\\store\\images\\product\\3-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\images\\demos\\store\\images\\product\\4-1.jpg",
+      "PackagePath": "staticwebassets\\images\\demos\\store\\images\\product\\4-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\images\\demos\\store\\images\\product\\4-2.jpg",
+      "PackagePath": "staticwebassets\\images\\demos\\store\\images\\product\\4-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\images\\demos\\store\\images\\product\\5-1.jpg",
+      "PackagePath": "staticwebassets\\images\\demos\\store\\images\\product\\5-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\images\\demos\\store\\images\\product\\5-2.jpg",
+      "PackagePath": "staticwebassets\\images\\demos\\store\\images\\product\\5-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\images\\demos\\store\\images\\product\\6-1.jpg",
+      "PackagePath": "staticwebassets\\images\\demos\\store\\images\\product\\6-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\images\\demos\\store\\images\\product\\6-2.jpg",
+      "PackagePath": "staticwebassets\\images\\demos\\store\\images\\product\\6-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\images\\demos\\store\\images\\product\\7-1.jpg",
+      "PackagePath": "staticwebassets\\images\\demos\\store\\images\\product\\7-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\images\\demos\\store\\images\\product\\7-2.jpg",
+      "PackagePath": "staticwebassets\\images\\demos\\store\\images\\product\\7-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\images\\demos\\store\\images\\product\\7-3.jpg",
+      "PackagePath": "staticwebassets\\images\\demos\\store\\images\\product\\7-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\images\\demos\\store\\images\\product\\8-1.jpg",
+      "PackagePath": "staticwebassets\\images\\demos\\store\\images\\product\\8-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\images\\demos\\store\\images\\product\\8-2.jpg",
+      "PackagePath": "staticwebassets\\images\\demos\\store\\images\\product\\8-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\images\\demos\\store\\images\\product\\9-1.jpg",
+      "PackagePath": "staticwebassets\\images\\demos\\store\\images\\product\\9-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\images\\demos\\store\\images\\product\\9-2.jpg",
+      "PackagePath": "staticwebassets\\images\\demos\\store\\images\\product\\9-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\images\\demos\\store\\images\\product\\9-3.jpg",
+      "PackagePath": "staticwebassets\\images\\demos\\store\\images\\product\\9-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\images\\demos\\store\\images\\single\\page-title.jpg",
+      "PackagePath": "staticwebassets\\images\\demos\\store\\images\\single\\page-title.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\images\\demos\\store\\images\\slider\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\demos\\store\\images\\slider\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\images\\demos\\store\\images\\slider\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\demos\\store\\images\\slider\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\images\\demos\\store\\images\\slider\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\demos\\store\\images\\slider\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\images\\demos\\xmas\\images\\cards\\2co.svg",
+      "PackagePath": "staticwebassets\\images\\demos\\xmas\\images\\cards\\2co.svg"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\images\\demos\\xmas\\images\\cards\\ae.svg",
+      "PackagePath": "staticwebassets\\images\\demos\\xmas\\images\\cards\\ae.svg"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\images\\demos\\xmas\\images\\cards\\mc.svg",
+      "PackagePath": "staticwebassets\\images\\demos\\xmas\\images\\cards\\mc.svg"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\images\\demos\\xmas\\images\\cards\\pp.svg",
+      "PackagePath": "staticwebassets\\images\\demos\\xmas\\images\\cards\\pp.svg"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\images\\demos\\xmas\\images\\cards\\sk.svg",
+      "PackagePath": "staticwebassets\\images\\demos\\xmas\\images\\cards\\sk.svg"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\images\\demos\\xmas\\images\\cards\\visa.svg",
+      "PackagePath": "staticwebassets\\images\\demos\\xmas\\images\\cards\\visa.svg"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\images\\demos\\xmas\\images\\cards\\wu.svg",
+      "PackagePath": "staticwebassets\\images\\demos\\xmas\\images\\cards\\wu.svg"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\images\\one-page\\images\\page\\portrait\\slide1-sm.jpg",
+      "PackagePath": "staticwebassets\\images\\one-page\\images\\page\\portrait\\slide1-sm.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\images\\one-page\\images\\page\\portrait\\slide1.jpg",
+      "PackagePath": "staticwebassets\\images\\one-page\\images\\page\\portrait\\slide1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\images\\one-page\\images\\page\\portrait\\slide2-sm.jpg",
+      "PackagePath": "staticwebassets\\images\\one-page\\images\\page\\portrait\\slide2-sm.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\images\\one-page\\images\\page\\portrait\\video-poster.jpg",
+      "PackagePath": "staticwebassets\\images\\one-page\\images\\page\\portrait\\video-poster.jpg"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\images\\one-page\\images\\page\\portrait\\video.mp4",
+      "PackagePath": "staticwebassets\\images\\one-page\\images\\page\\portrait\\video.mp4"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\bundle.js",
+      "PackagePath": "staticwebassets\\js\\bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\chart-utils.js",
+      "PackagePath": "staticwebassets\\js\\chart-utils.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\chart.js",
+      "PackagePath": "staticwebassets\\js\\chart.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\chartjs-plugin-zoom.min.js",
+      "PackagePath": "staticwebassets\\js\\chartjs-plugin-zoom.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\bs-datatable.js",
+      "PackagePath": "staticwebassets\\js\\components\\bs-datatable.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\bs-filestyle.js",
+      "PackagePath": "staticwebassets\\js\\components\\bs-filestyle.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\bs-select.js",
+      "PackagePath": "staticwebassets\\js\\components\\bs-select.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\bs-select.min.js",
+      "PackagePath": "staticwebassets\\js\\components\\bs-select.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\bs-switches.js",
+      "PackagePath": "staticwebassets\\js\\components\\bs-switches.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\datepicker.js",
+      "PackagePath": "staticwebassets\\js\\components\\datepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\daterangepicker.js",
+      "PackagePath": "staticwebassets\\js\\components\\daterangepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\event.move.js",
+      "PackagePath": "staticwebassets\\js\\components\\event.move.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\image-changer.js",
+      "PackagePath": "staticwebassets\\js\\components\\image-changer.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\moment.js",
+      "PackagePath": "staticwebassets\\js\\components\\moment.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\rangeslider.min.js",
+      "PackagePath": "staticwebassets\\js\\components\\rangeslider.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\select-boxes.js",
+      "PackagePath": "staticwebassets\\js\\components\\select-boxes.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\selectsplitter.js",
+      "PackagePath": "staticwebassets\\js\\components\\selectsplitter.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\star-rating.js",
+      "PackagePath": "staticwebassets\\js\\components\\star-rating.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\timepicker.js",
+      "PackagePath": "staticwebassets\\js\\components\\timepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\icons\\default\\icons.min.js",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\icons\\default\\icons.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\langs\\README.md",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\langs\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\license.txt",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\license.txt"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\models\\dom\\model.min.js",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\models\\dom\\model.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\plugins\\accordion\\plugin.min.js",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\plugins\\accordion\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\plugins\\advlist\\plugin.min.js",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\plugins\\advlist\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\plugins\\anchor\\plugin.min.js",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\plugins\\anchor\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\plugins\\autolink\\plugin.min.js",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\plugins\\autolink\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\plugins\\autoresize\\plugin.min.js",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\plugins\\autoresize\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\plugins\\autosave\\plugin.min.js",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\plugins\\autosave\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\plugins\\charmap\\plugin.min.js",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\plugins\\charmap\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\plugins\\code\\plugin.min.js",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\plugins\\code\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\plugins\\codesample\\plugin.min.js",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\plugins\\codesample\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\plugins\\directionality\\plugin.min.js",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\plugins\\directionality\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\plugins\\emoticons\\js\\emojiimages.js",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\plugins\\emoticons\\js\\emojiimages.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\plugins\\emoticons\\js\\emojiimages.min.js",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\plugins\\emoticons\\js\\emojiimages.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\plugins\\emoticons\\js\\emojis.js",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\plugins\\emoticons\\js\\emojis.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\plugins\\emoticons\\js\\emojis.min.js",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\plugins\\emoticons\\js\\emojis.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\plugins\\emoticons\\plugin.min.js",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\plugins\\emoticons\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\plugins\\fullscreen\\plugin.min.js",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\plugins\\fullscreen\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ar.js",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ar.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\plugins\\help\\js\\i18n\\keynav\\bg_BG.js",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\plugins\\help\\js\\i18n\\keynav\\bg_BG.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ca.js",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ca.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\plugins\\help\\js\\i18n\\keynav\\cs.js",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\plugins\\help\\js\\i18n\\keynav\\cs.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\plugins\\help\\js\\i18n\\keynav\\da.js",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\plugins\\help\\js\\i18n\\keynav\\da.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\plugins\\help\\js\\i18n\\keynav\\de.js",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\plugins\\help\\js\\i18n\\keynav\\de.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\plugins\\help\\js\\i18n\\keynav\\el.js",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\plugins\\help\\js\\i18n\\keynav\\el.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\plugins\\help\\js\\i18n\\keynav\\en.js",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\plugins\\help\\js\\i18n\\keynav\\en.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\plugins\\help\\js\\i18n\\keynav\\es.js",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\plugins\\help\\js\\i18n\\keynav\\es.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\plugins\\help\\js\\i18n\\keynav\\eu.js",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\plugins\\help\\js\\i18n\\keynav\\eu.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\plugins\\help\\js\\i18n\\keynav\\fa.js",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\plugins\\help\\js\\i18n\\keynav\\fa.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\plugins\\help\\js\\i18n\\keynav\\fi.js",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\plugins\\help\\js\\i18n\\keynav\\fi.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\plugins\\help\\js\\i18n\\keynav\\fr_FR.js",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\plugins\\help\\js\\i18n\\keynav\\fr_FR.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\plugins\\help\\js\\i18n\\keynav\\he_IL.js",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\plugins\\help\\js\\i18n\\keynav\\he_IL.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\plugins\\help\\js\\i18n\\keynav\\hi.js",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\plugins\\help\\js\\i18n\\keynav\\hi.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\plugins\\help\\js\\i18n\\keynav\\hr.js",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\plugins\\help\\js\\i18n\\keynav\\hr.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\plugins\\help\\js\\i18n\\keynav\\hu_HU.js",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\plugins\\help\\js\\i18n\\keynav\\hu_HU.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\plugins\\help\\js\\i18n\\keynav\\id.js",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\plugins\\help\\js\\i18n\\keynav\\id.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\plugins\\help\\js\\i18n\\keynav\\it.js",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\plugins\\help\\js\\i18n\\keynav\\it.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ja.js",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ja.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\plugins\\help\\js\\i18n\\keynav\\kk.js",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\plugins\\help\\js\\i18n\\keynav\\kk.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ko_KR.js",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ko_KR.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ms.js",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ms.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\plugins\\help\\js\\i18n\\keynav\\nb_NO.js",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\plugins\\help\\js\\i18n\\keynav\\nb_NO.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\plugins\\help\\js\\i18n\\keynav\\nl.js",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\plugins\\help\\js\\i18n\\keynav\\nl.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\plugins\\help\\js\\i18n\\keynav\\pl.js",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\plugins\\help\\js\\i18n\\keynav\\pl.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\plugins\\help\\js\\i18n\\keynav\\pt_BR.js",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\plugins\\help\\js\\i18n\\keynav\\pt_BR.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\plugins\\help\\js\\i18n\\keynav\\pt_PT.js",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\plugins\\help\\js\\i18n\\keynav\\pt_PT.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ro.js",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ro.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ru.js",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ru.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\plugins\\help\\js\\i18n\\keynav\\sk.js",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\plugins\\help\\js\\i18n\\keynav\\sk.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\plugins\\help\\js\\i18n\\keynav\\sl_SI.js",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\plugins\\help\\js\\i18n\\keynav\\sl_SI.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\plugins\\help\\js\\i18n\\keynav\\sv_SE.js",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\plugins\\help\\js\\i18n\\keynav\\sv_SE.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\plugins\\help\\js\\i18n\\keynav\\th_TH.js",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\plugins\\help\\js\\i18n\\keynav\\th_TH.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\plugins\\help\\js\\i18n\\keynav\\tr.js",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\plugins\\help\\js\\i18n\\keynav\\tr.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\plugins\\help\\js\\i18n\\keynav\\uk.js",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\plugins\\help\\js\\i18n\\keynav\\uk.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\plugins\\help\\js\\i18n\\keynav\\vi.js",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\plugins\\help\\js\\i18n\\keynav\\vi.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\plugins\\help\\js\\i18n\\keynav\\zh_CN.js",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\plugins\\help\\js\\i18n\\keynav\\zh_CN.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\plugins\\help\\js\\i18n\\keynav\\zh_TW.js",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\plugins\\help\\js\\i18n\\keynav\\zh_TW.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\plugins\\help\\plugin.min.js",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\plugins\\help\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\plugins\\image\\plugin.min.js",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\plugins\\image\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\plugins\\importcss\\plugin.min.js",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\plugins\\importcss\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\plugins\\insertdatetime\\plugin.min.js",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\plugins\\insertdatetime\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\plugins\\link\\plugin.min.js",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\plugins\\link\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\plugins\\lists\\plugin.min.js",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\plugins\\lists\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\plugins\\media\\plugin.min.js",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\plugins\\media\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\plugins\\nonbreaking\\plugin.min.js",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\plugins\\nonbreaking\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\plugins\\pagebreak\\plugin.min.js",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\plugins\\pagebreak\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\plugins\\preview\\plugin.min.js",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\plugins\\preview\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\plugins\\quickbars\\plugin.min.js",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\plugins\\quickbars\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\plugins\\save\\plugin.min.js",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\plugins\\save\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\plugins\\searchreplace\\plugin.min.js",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\plugins\\searchreplace\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\plugins\\table\\plugin.min.js",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\plugins\\table\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\plugins\\template\\plugin.min.js",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\plugins\\template\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\plugins\\visualblocks\\plugin.min.js",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\plugins\\visualblocks\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\plugins\\visualchars\\plugin.min.js",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\plugins\\visualchars\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\plugins\\wordcount\\plugin.min.js",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\plugins\\wordcount\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\skins\\content\\dark\\content.min.css",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\skins\\content\\dark\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\skins\\content\\default\\content.min.css",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\skins\\content\\default\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\skins\\content\\document\\content.min.css",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\skins\\content\\document\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\skins\\content\\tinymce-5-dark\\content.min.css",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\skins\\content\\tinymce-5-dark\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\skins\\content\\tinymce-5\\content.min.css",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\skins\\content\\tinymce-5\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\skins\\content\\writer\\content.min.css",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\skins\\content\\writer\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\skins\\ui\\oxide-dark\\content.inline.min.css",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\skins\\ui\\oxide-dark\\content.inline.min.css"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\skins\\ui\\oxide-dark\\content.min.css",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\skins\\ui\\oxide-dark\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\skins\\ui\\oxide-dark\\skin.min.css",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\skins\\ui\\oxide-dark\\skin.min.css"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.min.css",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.min.css"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\skins\\ui\\oxide\\content.inline.min.css",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\skins\\ui\\oxide\\content.inline.min.css"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\skins\\ui\\oxide\\content.min.css",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\skins\\ui\\oxide\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\skins\\ui\\oxide\\skin.min.css",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\skins\\ui\\oxide\\skin.min.css"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.min.css",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.min.css"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\skins\\ui\\tinymce-5-dark\\content.inline.min.css",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\skins\\ui\\tinymce-5-dark\\content.inline.min.css"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\skins\\ui\\tinymce-5-dark\\content.min.css",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\skins\\ui\\tinymce-5-dark\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.min.css",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.min.css"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.shadowdom.min.css",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.shadowdom.min.css"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\skins\\ui\\tinymce-5\\content.inline.min.css",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\skins\\ui\\tinymce-5\\content.inline.min.css"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\skins\\ui\\tinymce-5\\content.min.css",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\skins\\ui\\tinymce-5\\content.min.css"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\skins\\ui\\tinymce-5\\skin.min.css",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\skins\\ui\\tinymce-5\\skin.min.css"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\skins\\ui\\tinymce-5\\skin.shadowdom.min.css",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\skins\\ui\\tinymce-5\\skin.shadowdom.min.css"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\themes\\silver\\theme.min.js",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\themes\\silver\\theme.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\tinymce.d.ts",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\tinymce.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\tinymce\\tinymce.min.js",
+      "PackagePath": "staticwebassets\\js\\components\\tinymce\\tinymce.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\components\\typehead.js",
+      "PackagePath": "staticwebassets\\js\\components\\typehead.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\events-data.js",
+      "PackagePath": "staticwebassets\\js\\events-data.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\functions.bundle.js",
+      "PackagePath": "staticwebassets\\js\\functions.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\functions.js",
+      "PackagePath": "staticwebassets\\js\\functions.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\holder.js",
+      "PackagePath": "staticwebassets\\js\\holder.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\jquery.calendario.js",
+      "PackagePath": "staticwebassets\\js\\jquery.calendario.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\jquery.hotspot.js",
+      "PackagePath": "staticwebassets\\js\\jquery.hotspot.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\jquery.js",
+      "PackagePath": "staticwebassets\\js\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\jquery.mousewheel.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.mousewheel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\modules\\accordion.js",
+      "PackagePath": "staticwebassets\\js\\modules\\accordion.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\modules\\adaptivecolorscheme.js",
+      "PackagePath": "staticwebassets\\js\\modules\\adaptivecolorscheme.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\modules\\ajaxform.js",
+      "PackagePath": "staticwebassets\\js\\modules\\ajaxform.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\modules\\ajaxtrigger.js",
+      "PackagePath": "staticwebassets\\js\\modules\\ajaxtrigger.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\modules\\animations.js",
+      "PackagePath": "staticwebassets\\js\\modules\\animations.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\modules\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\modules\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\modules\\bscomponents.js",
+      "PackagePath": "staticwebassets\\js\\modules\\bscomponents.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\modules\\buttons.js",
+      "PackagePath": "staticwebassets\\js\\modules\\buttons.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\modules\\canvasslider.js",
+      "PackagePath": "staticwebassets\\js\\modules\\canvasslider.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\modules\\carousel.js",
+      "PackagePath": "staticwebassets\\js\\modules\\carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\modules\\clipboard.js",
+      "PackagePath": "staticwebassets\\js\\modules\\clipboard.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\modules\\codehighlight.js",
+      "PackagePath": "staticwebassets\\js\\modules\\codehighlight.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\modules\\conditional.js",
+      "PackagePath": "staticwebassets\\js\\modules\\conditional.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\modules\\cookies.js",
+      "PackagePath": "staticwebassets\\js\\modules\\cookies.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\modules\\countdown.js",
+      "PackagePath": "staticwebassets\\js\\modules\\countdown.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\modules\\counter.js",
+      "PackagePath": "staticwebassets\\js\\modules\\counter.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\modules\\cursor.js",
+      "PackagePath": "staticwebassets\\js\\modules\\cursor.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\modules\\dataclasses.js",
+      "PackagePath": "staticwebassets\\js\\modules\\dataclasses.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\modules\\dataheights.js",
+      "PackagePath": "staticwebassets\\js\\modules\\dataheights.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\modules\\easing.js",
+      "PackagePath": "staticwebassets\\js\\modules\\easing.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\modules\\filter.js",
+      "PackagePath": "staticwebassets\\js\\modules\\filter.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\modules\\flexslider.js",
+      "PackagePath": "staticwebassets\\js\\modules\\flexslider.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\modules\\flickr.js",
+      "PackagePath": "staticwebassets\\js\\modules\\flickr.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\modules\\fontsizer.js",
+      "PackagePath": "staticwebassets\\js\\modules\\fontsizer.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\modules\\fullvideo.js",
+      "PackagePath": "staticwebassets\\js\\modules\\fullvideo.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\modules\\googlemaps.js",
+      "PackagePath": "staticwebassets\\js\\modules\\googlemaps.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\modules\\gototop.js",
+      "PackagePath": "staticwebassets\\js\\modules\\gototop.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\modules\\grid.js",
+      "PackagePath": "staticwebassets\\js\\modules\\grid.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\modules\\headers.js",
+      "PackagePath": "staticwebassets\\js\\modules\\headers.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\modules\\hover3d.js",
+      "PackagePath": "staticwebassets\\js\\modules\\hover3d.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\modules\\hoveranimations.js",
+      "PackagePath": "staticwebassets\\js\\modules\\hoveranimations.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\modules\\instagram.js",
+      "PackagePath": "staticwebassets\\js\\modules\\instagram.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\modules\\lazyload.js",
+      "PackagePath": "staticwebassets\\js\\modules\\lazyload.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\modules\\lightbox.js",
+      "PackagePath": "staticwebassets\\js\\modules\\lightbox.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\modules\\logo.js",
+      "PackagePath": "staticwebassets\\js\\modules\\logo.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\modules\\masonrythumbs.js",
+      "PackagePath": "staticwebassets\\js\\modules\\masonrythumbs.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\modules\\mediaactions.js",
+      "PackagePath": "staticwebassets\\js\\modules\\mediaactions.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\modules\\menus.js",
+      "PackagePath": "staticwebassets\\js\\modules\\menus.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\modules\\modal.js",
+      "PackagePath": "staticwebassets\\js\\modules\\modal.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\modules\\navtree.js",
+      "PackagePath": "staticwebassets\\js\\modules\\navtree.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\modules\\notifications.js",
+      "PackagePath": "staticwebassets\\js\\modules\\notifications.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\modules\\onepage.js",
+      "PackagePath": "staticwebassets\\js\\modules\\onepage.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\modules\\pagemenu.js",
+      "PackagePath": "staticwebassets\\js\\modules\\pagemenu.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\modules\\pagetransition.js",
+      "PackagePath": "staticwebassets\\js\\modules\\pagetransition.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\modules\\portfolioajax.js",
+      "PackagePath": "staticwebassets\\js\\modules\\portfolioajax.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\modules\\pricingswitcher.js",
+      "PackagePath": "staticwebassets\\js\\modules\\pricingswitcher.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\modules\\progress.js",
+      "PackagePath": "staticwebassets\\js\\modules\\progress.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\modules\\quantity.js",
+      "PackagePath": "staticwebassets\\js\\modules\\quantity.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\modules\\readmore.js",
+      "PackagePath": "staticwebassets\\js\\modules\\readmore.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\modules\\resizevideos.js",
+      "PackagePath": "staticwebassets\\js\\modules\\resizevideos.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\modules\\roundedskills.js",
+      "PackagePath": "staticwebassets\\js\\modules\\roundedskills.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\modules\\schemetoggle.js",
+      "PackagePath": "staticwebassets\\js\\modules\\schemetoggle.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\modules\\scrolldetect.js",
+      "PackagePath": "staticwebassets\\js\\modules\\scrolldetect.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\modules\\shapedivider.js",
+      "PackagePath": "staticwebassets\\js\\modules\\shapedivider.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\modules\\sidepanel.js",
+      "PackagePath": "staticwebassets\\js\\modules\\sidepanel.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\modules\\sliderdimensions.js",
+      "PackagePath": "staticwebassets\\js\\modules\\sliderdimensions.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\modules\\slidermenuclass.js",
+      "PackagePath": "staticwebassets\\js\\modules\\slidermenuclass.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\modules\\sliderparallax.js",
+      "PackagePath": "staticwebassets\\js\\modules\\sliderparallax.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\modules\\stickfooteronsmall.js",
+      "PackagePath": "staticwebassets\\js\\modules\\stickfooteronsmall.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\modules\\stickysidebar.js",
+      "PackagePath": "staticwebassets\\js\\modules\\stickysidebar.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\modules\\subscribe.js",
+      "PackagePath": "staticwebassets\\js\\modules\\subscribe.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\modules\\textrotator.js",
+      "PackagePath": "staticwebassets\\js\\modules\\textrotator.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\modules\\textsplitter.js",
+      "PackagePath": "staticwebassets\\js\\modules\\textsplitter.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\modules\\tips.js",
+      "PackagePath": "staticwebassets\\js\\modules\\tips.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\modules\\toggle.js",
+      "PackagePath": "staticwebassets\\js\\modules\\toggle.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\modules\\topcart.js",
+      "PackagePath": "staticwebassets\\js\\modules\\topcart.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\modules\\topsearch.js",
+      "PackagePath": "staticwebassets\\js\\modules\\topsearch.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\modules\\twitter.js",
+      "PackagePath": "staticwebassets\\js\\modules\\twitter.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\modules\\videofacade.js",
+      "PackagePath": "staticwebassets\\js\\modules\\videofacade.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\modules\\viewportdetect.js",
+      "PackagePath": "staticwebassets\\js\\modules\\viewportdetect.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\modules\\youtubebg.js",
+      "PackagePath": "staticwebassets\\js\\modules\\youtubebg.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\particles\\particles-bubbles.js",
+      "PackagePath": "staticwebassets\\js\\particles\\particles-bubbles.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\particles\\particles-line.js",
+      "PackagePath": "staticwebassets\\js\\particles\\particles-line.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\particles\\particles-nasa.js",
+      "PackagePath": "staticwebassets\\js\\particles\\particles-nasa.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\particles\\particles-poly.js",
+      "PackagePath": "staticwebassets\\js\\particles\\particles-poly.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\particles\\particles-snow.js",
+      "PackagePath": "staticwebassets\\js\\particles\\particles-snow.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\particles\\particles.min.js",
+      "PackagePath": "staticwebassets\\js\\particles\\particles.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\particles\\particlesjs-config.json",
+      "PackagePath": "staticwebassets\\js\\particles\\particlesjs-config.json"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\plugins.bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\plugins.bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\plugins.carousel.js",
+      "PackagePath": "staticwebassets\\js\\plugins.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\plugins.clipboard.js",
+      "PackagePath": "staticwebassets\\js\\plugins.clipboard.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\plugins.countdown.js",
+      "PackagePath": "staticwebassets\\js\\plugins.countdown.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\plugins.counter.js",
+      "PackagePath": "staticwebassets\\js\\plugins.counter.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\plugins.dribbble.js",
+      "PackagePath": "staticwebassets\\js\\plugins.dribbble.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\plugins.easing.js",
+      "PackagePath": "staticwebassets\\js\\plugins.easing.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\plugins.fastdom.js",
+      "PackagePath": "staticwebassets\\js\\plugins.fastdom.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\plugins.fitvids.js",
+      "PackagePath": "staticwebassets\\js\\plugins.fitvids.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\plugins.flexslider.js",
+      "PackagePath": "staticwebassets\\js\\plugins.flexslider.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\plugins.flickrfeed.js",
+      "PackagePath": "staticwebassets\\js\\plugins.flickrfeed.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\plugins.form.js",
+      "PackagePath": "staticwebassets\\js\\plugins.form.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\plugins.gmap.js",
+      "PackagePath": "staticwebassets\\js\\plugins.gmap.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\plugins.hashchange.js",
+      "PackagePath": "staticwebassets\\js\\plugins.hashchange.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\plugins.imagesloaded.js",
+      "PackagePath": "staticwebassets\\js\\plugins.imagesloaded.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\plugins.infinitescroll.js",
+      "PackagePath": "staticwebassets\\js\\plugins.infinitescroll.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\plugins.isotope.js",
+      "PackagePath": "staticwebassets\\js\\plugins.isotope.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\plugins.jpaginate.js",
+      "PackagePath": "staticwebassets\\js\\plugins.jpaginate.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\plugins.lazyload.js",
+      "PackagePath": "staticwebassets\\js\\plugins.lazyload.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\plugins.lightbox.js",
+      "PackagePath": "staticwebassets\\js\\plugins.lightbox.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\plugins.min.js",
+      "PackagePath": "staticwebassets\\js\\plugins.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\plugins.packery.js",
+      "PackagePath": "staticwebassets\\js\\plugins.packery.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\plugins.piechart.js",
+      "PackagePath": "staticwebassets\\js\\plugins.piechart.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\plugins.prism.js",
+      "PackagePath": "staticwebassets\\js\\plugins.prism.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\plugins.stickysidebar.js",
+      "PackagePath": "staticwebassets\\js\\plugins.stickysidebar.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\plugins.swiper.js",
+      "PackagePath": "staticwebassets\\js\\plugins.swiper.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\plugins.textrotator.js",
+      "PackagePath": "staticwebassets\\js\\plugins.textrotator.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\plugins.youtube.js",
+      "PackagePath": "staticwebassets\\js\\plugins.youtube.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\jquery-validation-sri.json",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\jquery-validation-sri.json"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_ar.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_ar.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_ar.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_ar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_az.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_az.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_az.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_az.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_bg.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_bg.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_bg.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_bg.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_bn_BD.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_bn_BD.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_bn_BD.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_bn_BD.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_ca.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_ca.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_ca.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_ca.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_cs.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_cs.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_cs.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_cs.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_da.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_da.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_da.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_da.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_de.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_de.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_de.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_de.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_el.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_el.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_el.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_el.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_es.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_es.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_es.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_es.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_es_AR.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_es_AR.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_es_AR.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_es_AR.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_es_PE.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_es_PE.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_es_PE.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_es_PE.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_et.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_et.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_et.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_et.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_eu.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_eu.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_eu.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_eu.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_fa.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_fa.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_fa.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_fa.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_fi.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_fi.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_fi.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_fi.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_fr.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_fr.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_fr.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_fr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_ge.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_ge.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_ge.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_ge.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_gl.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_gl.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_gl.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_gl.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_he.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_he.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_he.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_he.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_hi.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_hi.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_hi.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_hi.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_hr.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_hr.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_hr.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_hr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_hu.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_hu.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_hu.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_hu.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_hy_AM.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_hy_AM.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_hy_AM.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_hy_AM.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_id.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_id.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_id.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_id.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_is.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_is.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_is.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_is.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_it.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_it.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_it.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_it.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_ja.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_ja.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_ja.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_ja.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_ka.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_ka.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_ka.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_ka.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_kk.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_kk.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_kk.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_kk.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_ko.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_ko.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_ko.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_ko.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_lt.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_lt.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_lt.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_lt.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_lv.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_lv.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_lv.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_lv.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_mk.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_mk.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_mk.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_mk.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_my.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_my.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_my.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_my.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_nl.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_nl.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_nl.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_nl.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_no.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_no.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_no.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_no.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_pl.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_pl.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_pl.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_pl.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_pt_BR.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_pt_BR.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_pt_BR.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_pt_BR.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_pt_PT.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_pt_PT.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_pt_PT.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_pt_PT.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_ro.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_ro.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_ro.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_ro.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_ru.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_ru.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_ru.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_ru.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_sd.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_sd.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_sd.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_sd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_si.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_si.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_si.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_si.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_sk.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_sk.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_sk.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_sk.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_sl.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_sl.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_sl.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_sl.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_sr.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_sr.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_sr.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_sr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_sr_lat.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_sr_lat.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_sr_lat.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_sr_lat.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_sv.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_sv.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_sv.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_sv.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_th.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_th.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_th.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_th.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_tj.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_tj.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_tj.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_tj.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_tr.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_tr.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_tr.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_tr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_uk.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_uk.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_uk.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_uk.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_ur.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_ur.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_ur.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_ur.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_vi.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_vi.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_vi.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_vi.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_zh.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_zh.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_zh.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_zh.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_zh_TW.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_zh_TW.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\messages_zh_TW.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\messages_zh_TW.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\methods_de.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\methods_de.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\methods_de.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\methods_de.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\methods_es_CL.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\methods_es_CL.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\methods_es_CL.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\methods_es_CL.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\methods_fi.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\methods_fi.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\methods_fi.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\methods_fi.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\methods_it.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\methods_it.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\methods_it.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\methods_it.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\methods_nl.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\methods_nl.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\methods_nl.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\methods_nl.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\methods_pt.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\methods_pt.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validate\\localization\\methods_pt.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validate\\localization\\methods_pt.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.slim.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.slim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\lib\\jquery\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.slim.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.store.props",
+      "PackagePath": "build\\store.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.store.props",
+      "PackagePath": "buildMultiTargeting\\store.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.store.props",
+      "PackagePath": "buildTransitive\\store.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.store.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
