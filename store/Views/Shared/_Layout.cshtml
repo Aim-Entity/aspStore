@@ -538,5 +538,45 @@
 		});
 	</script>
 
+	<script>
+		jQuery(document).ready(changeHeaderColor);
+		jQuery(window).on('resize', changeHeaderColor);
+
+		function changeHeaderColor() {
+			if (jQuery(window).width() > 991.98) {
+				jQuery("#header").hover(
+					function () {
+						if (!jQuery(this).hasClass("sticky-header")) {
+							jQuery(this).addClass("hover-light").removeClass("dark").addClass('not-dark');
+						}
+						jQuery("#wrapper").addClass("header-overlay");
+						SEMICOLON.Base.setBSTheme();
+					}, function () {
+						if (!jQuery(this).hasClass("sticky-header")) {
+							jQuery(this).removeClass("hover-light").addClass("dark").removeClass('not-dark');
+						}
+						jQuery("#wrapper").removeClass("header-overlay");
+						SEMICOLON.Base.setBSTheme();
+					}
+				);
+			}
+		};
+
+		window.addEventListener('scroll', function () {
+			if (jQuery(document).scrollTop() > 2000 && jQuery("#modal-subscribe").attr("displayed") === "false") {
+				if (jQuery('body').hasClass('has-plugin-bootstrap')) {
+					jQuery('#modal-subscribe').modal('show');
+					jQuery("#modal-subscribe").attr("displayed", "true");
+				}
+			}
+		}, { passive: true });
+
+		jQuery('#modal-subscribe-form').on('formSubmitSuccess', function () {
+			jQuery("#modal-subscribe").addClass("fadeOutDown");
+			setTimeout(function () { jQuery('#modal-subscribe').modal('hide'); }, 400);
+			jQuery("#modal-subscribe").attr("displayed", "false");
+		});
+	</script>
+
 </body>
 </html>
