@@ -2377,6 +2377,14 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\jquery.slim.min.map"
     },
     {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\media\\uploads\\3bb45dc4-1c96-46cb-a3ae-d31c4667e18d_code.png",
+      "PackagePath": "staticwebassets\\media\\uploads\\3bb45dc4-1c96-46cb-a3ae-d31c4667e18d_code.png"
+    },
+    {
+      "Id": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\media\\uploads\\a5199772-409b-4294-9e49-b47adc3b1aab_code.png",
+      "PackagePath": "staticwebassets\\media\\uploads\\a5199772-409b-4294-9e49-b47adc3b1aab_code.png"
+    },
+    {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.store.props",
       "PackagePath": "build\\store.props"
     },

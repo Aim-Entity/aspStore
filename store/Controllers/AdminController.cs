@@ -6,15 +6,27 @@ namespace store.Controllers
 	public class AdminController : Controller
 	{
 		private readonly IImageRepository _imageRepository;
+		private readonly IDetailRepository _detailRepository;
 		private readonly IWebHostEnvironment _webHostEnvironment;
 
-		public AdminController(IImageRepository imageRepository, IWebHostEnvironment webHostEnvironment)
+		public AdminController(IImageRepository imageRepository, IWebHostEnvironment webHostEnvironment, IDetailRepository detailRepository)
 		{
 			_imageRepository = imageRepository;
 			_webHostEnvironment = webHostEnvironment;
+			_detailRepository = detailRepository;
+		}
+
+		public IActionResult ErrorPage()
+		{
+			return View();
 		}
 
 		public IActionResult ImageForm()
+		{
+			return View();
+		}
+
+		public IActionResult DetailForm()
 		{
 			return View();
 		}
@@ -39,7 +51,18 @@ namespace store.Controllers
 				_imageRepository.AddNewImage(image);
 				return RedirectToAction("ImageForm");
 			}
-			return View();
+			return RedirectToAction("ErrorPage");
+		}
+
+		[HttpPost]
+		public IActionResult CreateDetail(Detail detail)
+		{
+            if (ModelState.IsValid)
+			{
+				_detailRepository.AddNewDetail(detail);
+				return RedirectToAction("DetailForm");
+			}
+			return RedirectToAction("ErrorPage");
 		}
 	}
 }

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "XueiTDWPbwmmuaYs+xRv827lncfJqSs33yE2w5Qjrxk=",
+  "Hash": "IvSpXCWFQTnmKRspG2bSjOXBXcoNzRzORlIOl9B/kDI=",
   "Source": "store",
   "BasePath": "_content/store",
   "Mode": "Default",
@@ -11320,6 +11320,44 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\media\\uploads\\3bb45dc4-1c96-46cb-a3ae-d31c4667e18d_code.png",
+      "SourceId": "store",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\",
+      "BasePath": "_content/store",
+      "RelativePath": "media/uploads/3bb45dc4-1c96-46cb-a3ae-d31c4667e18d_code.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\media\\uploads\\3bb45dc4-1c96-46cb-a3ae-d31c4667e18d_code.png"
+    },
+    {
+      "Identity": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\media\\uploads\\a5199772-409b-4294-9e49-b47adc3b1aab_code.png",
+      "SourceId": "store",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\BilalUddin\\OneDrive - Energy & Compliance Technology Ltd\\Documents\\code\\projects\\storeASP\\store\\store\\wwwroot\\",
+      "BasePath": "_content/store",
+      "RelativePath": "media/uploads/a5199772-409b-4294-9e49-b47adc3b1aab_code.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\media\\uploads\\a5199772-409b-4294-9e49-b47adc3b1aab_code.png"
     }
   ]
 }

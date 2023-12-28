@@ -18,6 +18,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\BilalUddin\OneDrive - Energy & Compliance Technology Ltd\Documents\code\projects\storeASP\store\store
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/BilalUddin/OneDrive - Energy & Compliance Technology Ltd/Documents/code/projects/storeASP/store/store/Views/Admin/DetailForm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRGV0YWlsRm9ybS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/BilalUddin/OneDrive - Energy & Compliance Technology Ltd/Documents/code/projects/storeASP/store/store/Views/Admin/ErrorPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRXJyb3JQYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/BilalUddin/OneDrive - Energy & Compliance Technology Ltd/Documents/code/projects/storeASP/store/store/Views/Admin/ImageForm.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW1hZ2VGb3JtLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
