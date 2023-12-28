@@ -7,6 +7,7 @@ namespace store.Controllers
 	{
 		private readonly IImageRepository _imageRepository;
 		private readonly IDetailRepository _detailRepository;
+		private readonly ICategoryRepository _categoryRepository;
 		private readonly IWebHostEnvironment _webHostEnvironment;
 
 		public AdminController(IImageRepository imageRepository, IWebHostEnvironment webHostEnvironment, IDetailRepository detailRepository)
@@ -27,6 +28,11 @@ namespace store.Controllers
 		}
 
 		public IActionResult DetailForm()
+		{
+			return View();
+		}
+
+		public IActionResult CategoryForm()
 		{
 			return View();
 		}
@@ -61,6 +67,17 @@ namespace store.Controllers
 			{
 				_detailRepository.AddNewDetail(detail);
 				return RedirectToAction("DetailForm");
+			}
+			return RedirectToAction("ErrorPage");
+		}
+
+		[HttpPost]
+		public IActionResult CreateCategory(Category category)
+		{
+			if (ModelState.IsValid)
+			{
+				_categoryRepository.AddNewCategory(category);
+				return RedirectToAction("CategoryForm");
 			}
 			return RedirectToAction("ErrorPage");
 		}

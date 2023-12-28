@@ -1,0 +1,32 @@
+﻿@model Category
+
+<!-- Page Title
+============================================= -->
+<section class="page-title page-title-parallax parallax scroll-detect dark page-title-center include-header" style="padding: 170px 0 100px; background-color: violet;">
+    <div class="admin-page">
+        <div class="form-container" style="width: 30%; height: 30em; margin: 0 auto;">
+            <div class="form" style="height: 100%; display: flex; align-items: center; flex-direction: column; background-color: white; border: 2px grey solid;">
+                <h2 class="mb-3 text-dark" style="margin-top: 20px;">Add Images</h2>
+
+                <form class="form-group" method="post" asp-action="CreateCategory">
+                    <div asp-validation-summary="All" class="text-danger"></div>
+
+                    <div class="form-group">
+
+                        <label class="control-label"></label>
+                        <div class="custom-field">
+                            <label asp-for="CategoryName" class="custom-field-label text-dark" for="categoryName"></label>
+                            <input asp-for="CategoryName" class="form-control bg-light text-dark custom-field-input" id="categoryName">
+                            <span asp-validation-for="CategoryName" class="text-danger"></span>
+                        </div>
+
+                    </div>
+
+                    <div class="form-group">
+                        <input type="submit" value="Submit" class="btn btn-primary" style="position: relative; left: 50%; transform: translateX(-50%);" />
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</section><!-- .page-title end -->
